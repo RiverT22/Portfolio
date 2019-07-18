@@ -1,0 +1,19 @@
+body {
+    background:pink;
+    color:white;
+}
+
+img {
+    position:absolute;
+    left:800px;
+    top:80px;
+
+}
+
+h1 {
+    font-family: 'Notable', sans-serif;
+    border-style: double;
+
+
+}
+

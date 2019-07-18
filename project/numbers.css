@@ -1,0 +1,20 @@
+body {
+    background-color:#BEDCFE;
+}
+
+h2 {
+    color:white;
+   text-align:center;
+   border:double;
+   border-width:6px;
+}
+
+img {
+    position:absolute;
+    left:880px;
+    top:90px;  
+}
+
+h3 {
+    color:#F2FBE0;
+}
