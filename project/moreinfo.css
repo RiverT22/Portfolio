@@ -1,3 +1,20 @@
 body {
-    background-color:#F6CACA;
+    background-color:#E9F7CA;
+}
+
+h2 {
+    color:#F3CA40;
+    text-align:center; 
+    font-family: 'BenchNine', sans-serif;
+
+
+}
+
+h3 {
+    font-family: 'Archivo Black', sans-serif;
+    color:white;
+}
+
+h4 {
+    color:black;
 }
