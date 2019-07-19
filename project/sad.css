@@ -1,3 +1,29 @@
 body {
     background-color:#EAE0D5;
 }
+
+.column {
+    width:45%;
+    left:300x;
+    top:30px;
+    float:right;
+    margin-top:-610px;
+}
+
+.row {
+    width:300px;
+    margin-right:100px;
+    top:400px;
+    float:left;
+    
+}
+
+
+
+
+
+  
+  
+
+
+  
