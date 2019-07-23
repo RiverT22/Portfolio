@@ -4,9 +4,9 @@ body {
 }
 
 img {
-    position:absolute;
-    left:800px;
-    top:80px;
+    height:330px;
+    float:right;
+    top:100px;
 
 }
 
