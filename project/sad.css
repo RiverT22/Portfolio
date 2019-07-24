@@ -18,6 +18,12 @@ body {
     
 }
 
+img {
+    position:absolute;
+    left:780px;
+    top:10px; 
+    height:50%;
+}
 
 
 
