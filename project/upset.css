@@ -3,5 +3,8 @@ body {
 }
 
 img {
+    height:400px;
     float:right;
+    top:200px;
+    
 }
