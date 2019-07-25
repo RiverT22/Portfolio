@@ -14,3 +14,10 @@ color:black;
 h3 {
     color:darksalmon;
 }
+
+img {
+    height:330px;
+    float:right;
+    top:100px;
+
+}
