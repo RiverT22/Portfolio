@@ -12,9 +12,19 @@ h2 {
 
 h3 {
     font-family: 'Archivo Black', sans-serif;
-    color:brown;
+    color:  burlywood;
 }
 
 h4 {
-    color:black;
+    color:lightseagreen;
+}
+
+h1 {
+    border:double; 
+    text-align:center; 
+    color:lightblue
+}
+
+img {
+    float:right;
 }
