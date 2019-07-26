@@ -18,3 +18,11 @@ img {
 h3 {
     color:#F2FBE0;
 }
+
+img {
+    position:absolute;
+    left:860px;
+    top:510px; 
+    height:50%;
+}
+}

@@ -136,6 +136,9 @@ top:350px;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  position: absolute;
+  top:178.4px; 
+  right:20px;
   
  
 }
